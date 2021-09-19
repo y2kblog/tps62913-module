@@ -32,3 +32,5 @@ gerber/
 PCBA/
 *.FCStd
 * - コピー.*
+*.dft
+*.pptx

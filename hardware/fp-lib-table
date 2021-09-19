@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name footprint)(type KiCad)(uri ${KIPRJMOD}/footprint)(options "")(descr ""))
+  (lib (name inductor_SWPA)(type KiCad)(uri ${KIPRJMOD}/footprint/inductor_SWPA.pretty)(options "")(descr ""))
+  (lib (name TPS6291x)(type KiCad)(uri ${KIPRJMOD}/footprint/TPS6291x.pretty)(options "")(descr ""))
+  (lib (name passive_parts)(type KiCad)(uri ${KIPRJMOD}/footprint/passive_parts.pretty)(options "")(descr ""))
+  (lib (name connector)(type KiCad)(uri ${KIPRJMOD}/footprint/connector.pretty)(options "")(descr ""))
+)
