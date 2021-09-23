@@ -34,3 +34,4 @@ PCBA/
 * - コピー.*
 *.dft
 *.pptx
+*_nomanf*
