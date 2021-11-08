@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TPS6291x)(type Legacy)(uri ${KIPRJMOD}/symbol/TPS6291x.lib)(options "")(descr ""))
+)

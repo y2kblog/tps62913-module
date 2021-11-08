@@ -24,3 +24,15 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+
+# user
+*.rules
+gerber/
+PCBA/
+*.FCStd
+* - コピー.*
+*.dft
+*.pptx
+*_nomanf*
+*.xcf
