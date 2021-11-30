@@ -25,11 +25,9 @@
 - スペクトラム拡散変調：有効
 -->
 
-<!--
 ## 販売  
-[スイッチサイエンス委託販売ページ](https://www.switch-science.com/catalog/xxxx/)  
+[スイッチサイエンス委託販売ページ](https://www.switch-science.com/catalog/7619/)  
 ※大量注文や在庫に関する問い合わせは[こちら](mailto:info.y2kb@gmail.com)までご連絡ください。  
--->
 
 ## ピンアサイン
 <table>
